@@ -1,0 +1,8 @@
+Passing Requirements
+1. Local Pipeline (Morse to Hex): Push button to Servo Motor
+2. Local Pipeline (Morse to Hex) Alternate hardware: Push button to LEDs
+
+Bonus Points
+1. DIY IR Sensor as input. Encoding binary and decoding it as Decimal.
+2. Unity 3D (Divya's input)
+3. Remote Communication
